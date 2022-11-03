@@ -7,7 +7,6 @@ QUESTIONS = [
     ("How many continents are there? ", "5", "7", "8"),
     ("What is the biggest country in population?", "Russia", "China", "USA", "Canada"),
     ("What country is the poorest?", "Switzerland", "USA", "Somalia"),
-    "
 ]
 
 iridi.print("Welcome to my quiz, I hope you enjoy :) \n", ["#8A2387", "#E94057", "#F27121"], bold=True)
